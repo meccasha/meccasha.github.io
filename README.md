@@ -2,7 +2,7 @@
   <img height="150" src="https://i.imgur.com/qFb6QxC.jpeg"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="www.linkedin.com/in/shane-mecca-3333b7181">
@@ -15,23 +15,23 @@
   </a>
 </div>
 
-###
+
 
 <h1 align="center">Welcome! I'm Shane 👋</h1>
 
-###
+
 
 <h3 align="left">👨‍💻  About Me</h3>
 
-###
+
 
 <p align="left">I'm a Data Scientist currently living in Huntington, NY 🗽<br><br>- 💻 I've been working as a Data Scientist at VUMC since October 2024 on image segmentation, signal processing, and 3-D image analysis <br>- 🔬 I have a strong background in life science research, mainly in Pharmacology and Cancer Biology <br>- ⚔️ In my free time I enjoy reading fantasy novels, snowboarding, and exploring unique and fun datasets</p>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />        
@@ -54,11 +54,11 @@
   <img width="12" />
 </div>
 
-###
+
 
 <h3 align="left">🔥   Current Projects:</h3>
 
-###
+
 
 <p align="left"></p>
 
