@@ -44,13 +44,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="plotly logo" />
   <img width="12" />
 </div>
 
@@ -60,6 +62,24 @@
 
 
 
-<p align="left"></p>
+<p align="left">
+  <ul>
+    <li>
+      <a href="https://github.com/meccasha/meccasha.github.io/tree/442c4f6b15974bef7d2a044167e97278121ccc36/clinical-trials-analysis">
+      Exploring ClinicalTrials.gov API through Emerging Prostate Cancer Drugs (In Progress)
+      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" alt="python logo" />        
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="20" alt="pandas logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="20" alt="plotly logo" />
+      <img width="12" />
+      <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" alt="tableau logo" />
+      <img width="12" />
+    </li>
+  </ul>
+</p>
 
 ###
