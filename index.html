@@ -209,6 +209,9 @@
             border: 1px solid rgba(255, 255, 255, 0.1);
             transition: all 0.3s;
             cursor: pointer;
+            text-decoration: none;
+            display: block;
+            color: inherit;
         }
 
         .project-card:hover {
@@ -383,14 +386,16 @@
         <h2 class="section-title">Current Projects</h2>
         <div class="projects-grid">
             <div class="project-card">
-                <h3>Prostate Cancer Clinical Trials</h3>
-                <p>Building an end-to-end pipeline to reveal emerging drugs currently going through US clinical trials via official API. Deploying interactive Plotly and Tableau dashboards for stakeholder insights.</p>
-                <div class="tech-tags">
-                    <span class="tech-tag">Python</span>
-                    <span class="tech-tag">Tableau</span>
-                    <span class="tech-tag">Plotly</span>
-                    <span class="tech-tag">SQL</span>
-                </div>
+                <a href="https://github.com/meccasha/meccasha.github.io/tree/main/projects/clinical-trials-analysis" class="project-card" target="_blank">
+                    <h3>Prostate Cancer Clinical Trials</h3>
+                    <p>Building an end-to-end pipeline to reveal emerging drugs currently going through US clinical trials via official API. Deploying interactive Plotly and Tableau dashboards for stakeholder insights.</p>
+                    <div class="tech-tags">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Tableau</span>
+                        <span class="tech-tag">Plotly</span>
+                        <span class="tech-tag">SQL</span>
+                    </div>
+                </a>
             </div>
         </div>
     </section>
