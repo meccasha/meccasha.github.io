@@ -25,7 +25,7 @@
 
 
 
-<p align="left">I'm a Data Scientist currently living in Huntington, NY 🗽<br><br>- 💻 I've been working as a Data Scientist at VUMC since October 2024 on image segmentation, signal processing, and 3-D image analysis <br>- 🔬 I have a strong background in life science research, mainly in Pharmacology and Cancer Biology <br>- ⚔️ In my free time I enjoy reading fantasy novels, snowboarding, and exploring unique and fun datasets</p>
+<p align="left">I'm a Data Scientist currently living in Huntington, NY 🗽<br><br>- 💻 I've been working as a Data Scientist at VUMC since October 2024 on image segmentation, signal processing, and 3-D image analysis <br>- 🔬 I have a strong background in life science research, primarily in Pharmacology, Cancer Biology, and Neuroscience <br>- ⚔️ In my free time I enjoy reading, snowboarding, and working on my personal projects </p>
 
 
 
