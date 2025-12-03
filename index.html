@@ -51,7 +51,27 @@
             z-index: 100;
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
         }
+        
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
 
+        .profile-pic {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid #00e5ff;
+            transition: all 0.3s;
+        }
+
+        .profile-pic:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(0, 229, 255, 0.5);
+        }
+        
         .logo {
             font-size: 1.5rem;
             font-weight: bold;
@@ -364,7 +384,10 @@
     <div class="bg-gradient"></div>
 
     <nav>
-        <div class="logo">Shane Mecca</div>
+        <div class="logo-container">
+            <img src="https://i.imgur.com/qFb6QxC.jpeg" alt="profile picture" class="profile-pic">
+            <div class="logo">Shane Mecca</div>
+        </div>
         <ul class="nav-links">
             <li><a href="#projects">Projects</a></li>
             <li><a href="#skills">Skills</a></li>
